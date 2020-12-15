@@ -9,7 +9,7 @@ menu:
 
 Welcome to the Docsy theme user guide! This guide shows you how to get started creating technical documentation sites using Docsy, including site customization and how to use Docsy's blocks and templates.
 
-## What is Docsy?
+## What is Docsy??
 
 Docsy is a theme for the [Hugo](https://gohugo.io/) static site generator that's specifically designed for technical 
 documentation sets and has a lot of best practices built in. Use Docsy to get a working and reliable documentation 
